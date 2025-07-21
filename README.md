@@ -23,7 +23,7 @@ This repository contains a custom Windows batch script (`start.bat`) that automa
 3. Double-click `start.bat` or run it from the terminal:
    ```cmd
    activate_django.bat
-````
+   ````
 
 That’s it — your dev server will start and your browser will open automatically.
 
